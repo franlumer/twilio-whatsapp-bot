@@ -8,7 +8,7 @@ As our python files runs in a local server we have to expose it to the internet 
 
 ////////// package path //////////
 
-(see package_path.jpg)
+(see package_path.png)
 
 1. Messages come out of the client and travel to Twilio servers. There, through some configuration in "when a message comes in" we are redirecting this message to our ngrok server URL through an HTTP package through a preset port.
 2. Ngrok is a "door" or "tunnel" to our internet-exposed local server so the package is received by our PC and processed by our python program.
