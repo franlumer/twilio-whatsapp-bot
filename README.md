@@ -1,6 +1,6 @@
 # twilio-whatsapp-bot
 
-This bot is used for consulting for consulting dollar prices.
+This bot is used for consulting dollar prices from a public web page.
 It uses twilio whatsapp messages api for chating, python for the logical proces and ngrok for internet exposure.
 
 Our main file is a Flask Python web app located on a local server in our PC. The web scrapping files are located on our PC's too.
