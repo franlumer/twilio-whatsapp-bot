@@ -7,6 +7,7 @@ Our main file is a Flask Python web app located on a local server in our PC. The
 As our python files runs in a local server we have to expose it to the internet for being able to access from there. For this we are using an ngrok webhook.
 
 For accessing the chat-bot you have to send a message to this number (+1 (415) 523-8886) saying "join dance-stand". Type "ayuda" or "help" for a help message.
+It's necessary being runing ngrok in the back and correctly configure your twilio api.
 
 ////////// package path //////////
 
